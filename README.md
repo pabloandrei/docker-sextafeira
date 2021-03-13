@@ -1,7 +1,7 @@
 # docker-sextafeira
 docker-sextafeira
 
-Dockerfile for [SextaFeira][] and its dictation kit.
+Dockerfile for `SextaFeira` and its dictation kit.
 
  * `julius` binary is installed under `/usr/local/bin`.
  * `JULIUS_VERSION` environment variable contains the Julius version.
